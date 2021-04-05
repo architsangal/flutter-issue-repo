@@ -48365,7 +48365,7 @@ F.q5.prototype={
 aR:function(){return new F.E2(C.m)}}
 F.E2.prototype={
 N:function(a,b){var s=null,r=L.a4g(this.a.c,s)
-return new M.r0(new E.oj(r,new P.a1(1/0,56),s),T.IO(T.abD(H.c([new U.ps(new L.om("assets/img.png"),s)],t.fQ),C.pg),s,s),s)}}
+return new M.r0(new E.oj(r,new P.a1(1/0,56),s),T.IO(T.abD(H.c([new U.ps(new L.om("assets/asset/img.png"),s)],t.fQ),C.pg),s,s),s)}}
 E.hC.prototype={
 gk:function(a){return this.b},
 h:function(a,b){if(b>=this.b)throw H.a(P.b8(b,this,null,null,null))
